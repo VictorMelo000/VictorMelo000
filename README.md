@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - I am a 21-year-old developer based in Brazil. Having built a solid foundation as a Junior Developer with hands-on experience in Angular and C#, I am now pivoting my professional career toward Mobile Development.
+  👨‍💻 I am a 21-year-old developer based in Brazil. Having built a solid foundation as a Junior Developer with hands-on experience in Angular and C#, I am now pivoting my professional career toward Mobile Development.
 
   🎯 Currently, I am fully dedicated to a new professional journey specializing in Flutter. My goal is to combine my previous web development expertise with mobile technologies to build high-performance, cross-platform applications.
 
@@ -27,7 +27,7 @@
 
   📈 Background: Former Web Development Intern, now evolving into a versatile Junior Developer.
 
-  - ⚡ I enjoy playing video games, as well as watching movies and sports! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  ⚡ I enjoy playing video games, as well as watching movies and sports! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
